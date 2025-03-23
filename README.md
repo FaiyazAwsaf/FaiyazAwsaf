@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">I'm Faiyaz Awsaf</h1><br>
 
-<!--
-**FaiyazAwsaf/FaiyazAwsaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+<h3>I’m an aspiring Software Engineer and Aviation Enthusiast</h3>
+
+
+## 🌐 Connect With Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faiyaz.awsaf.11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faiyaz-ahmad-awsaf-9926aa230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiyazawsaf11@gmail.com) 
+
+
+# 📊 GitHub Stats:
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=FaiyazAwsaf&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="faiyazawsaf" /></p>
+<p align="center">&nbsp;<img src="https://nirzak-streak-stats.vercel.app/?user=FaiyazAwsaf&theme=nightowl&hide_border=false" alt="faiyazawsaf" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiyazAwsaf&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiyazawsaf&label=Profile%20views&color=0e75b6&style=flat" alt="faiyazawsaf" /> </p>
