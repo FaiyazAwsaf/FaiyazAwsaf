@@ -1,4 +1,4 @@
-<h1 align="center">I'm Faiyaz Awsaf</h1><br>
+<h1 align="center">I am Faiyaz Awsaf</h1><br>
 
 
 
