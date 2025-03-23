@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-<h3>I’m an aspiring Software Engineer and Aviation Enthusiast</h3>
+<p>I’m an aspiring Software Engineer and Aviation Enthusiast currently in the second year of my Undergrad degree<p>
 <br>
 
 ## 🌐 Connect With Me:
