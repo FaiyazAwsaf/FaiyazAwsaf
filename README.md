@@ -3,7 +3,8 @@
 
 
 ## 💫 About Me:
-<p>I’m an aspiring Software Engineer and Aviation Enthusiast currently in the second year of my Undergrad degree<p>
+<p>I’m an aspiring Software Engineer and Aviation Enthusiast currently in the second year of my Undergrad degree.<p>
+<p>My current focus is Backend Development and Machine Learning<p>
 <br>
 
 ## 🌐 Connect With Me:
